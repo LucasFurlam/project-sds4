@@ -33,8 +33,8 @@ The following prerequisites are necessary for the execution of the project devel
 * Intellj IDEA Community Edition or your favorite IDE.
 * GIT version control installed on your machine.
 * GitHub account for cloud storage of your project.
-* Heroku account to deploy the project to the cloud
-* Netlify account to deploy the project to the cloud
+* Heroku account to deploy the backend to the cloud
+* Netlify account to deploy the frontend
 * Willing to learn and share knowledge :)
 
 If you want a step-by-step project development it can be found through this link: 
